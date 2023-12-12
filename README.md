@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Dong 👋
 
-<!--
-**DongLieu/DongLieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently I am a Blockchain Engineer for [Genuine-labs](https://github.com/Genuine-labs)... Contribute to chains that are using Cosmos-SDK.
+- 🌱 I graduated from [Ha Noi University Of Science And Technology](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_khoa_H%C3%A0_N%E1%BB%99i).
+- 💬 Ask me about anything you want to know [twitter](https://twitter.com/dongtqhn80).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages
+
+- golang, c++, python, rust
+
+
+### Thanks for visit my github
