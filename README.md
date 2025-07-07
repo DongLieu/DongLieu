@@ -12,3 +12,6 @@
 
 
 ### Thanks for visit my github
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DongLieu&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DongLieu&show_icons=true&locale=en&layout=compact" alt="DongLieu" />
