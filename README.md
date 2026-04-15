@@ -8,7 +8,7 @@
 
 ## 🚀 Languages & Tools
 
-- Golang, C++, Python, Rust
+- Golang, Python, Rust, Solidity, C++...
 
 ---
 
