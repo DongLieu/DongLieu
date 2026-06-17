@@ -8,7 +8,7 @@
 
 ## 🚀 Languages & Tools
 
-- Golang, Python, Rust, Solidity, C++...
+- Golang, Python, Docker, SQL, Rust, Solidity, C++...
 
 ---
 
